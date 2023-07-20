@@ -44,7 +44,7 @@ $ PATH_TO_BCL/bcl.exe molecule:ConformerGenerator \
     -top_models 200 \
     -cluster \
     -explicit_aromaticity \
-    -rotamers_single_file KIS_rotamers.sdf
+    -conformers_single_file KIS_rotamers.sdf
 ```
 4. Generate a ROSETTA .params file using molfile_to_params_polymer.py. NOTE: this script is located in PATH_TO_ROSETTA/main/source/scripts/python/public
 ```
