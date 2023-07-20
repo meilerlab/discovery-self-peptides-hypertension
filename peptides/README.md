@@ -1,0 +1,1 @@
+Contains .fasta files with sequences for proteins overexpressed in the kidney in humans and homologous sequences for proteins in mice. These sequences were used as input to NetMHCpan4.0 to generate lysine-containing peptides with high binding affinity for a given MHC-I variant.
